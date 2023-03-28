@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksmswithoutborders=self.webpackChunksmswithoutborders||[]).push([[949],{6031:s=>{s.exports=JSON.parse('{"permalink":"/fa/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"\u0648\u0628\u0644\u0627\u06af","blogTitle":"\u0648\u0628\u0644\u0627\u06af"}')}}]);
