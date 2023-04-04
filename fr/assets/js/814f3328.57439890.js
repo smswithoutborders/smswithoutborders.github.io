@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksmswithoutborders=self.webpackChunksmswithoutborders||[]).push([[2535],{5641:s=>{s.exports=JSON.parse('{"title":"Messages r\xe9cents","items":[{"title":"First Blog Post","permalink":"/fr/blog/first-blog-post"}]}')}}]);

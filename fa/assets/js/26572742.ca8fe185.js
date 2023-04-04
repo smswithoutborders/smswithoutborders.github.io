@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksmswithoutborders=self.webpackChunksmswithoutborders||[]).push([[682],{711:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/fa/blog/tags/hola","allTagsPath":"/fa/blog/tags","count":1}')}}]);

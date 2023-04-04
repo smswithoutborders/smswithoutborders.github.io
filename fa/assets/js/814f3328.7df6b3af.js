@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksmswithoutborders=self.webpackChunksmswithoutborders||[]).push([[2535],{5641:s=>{s.exports=JSON.parse('{"title":"\u067e\u0633\u062a\u0647\u0627\u06cc \u0627\u062e\u06cc\u0631","items":[{"title":"First Blog Post","permalink":"/fa/blog/first-blog-post"}]}')}}]);
