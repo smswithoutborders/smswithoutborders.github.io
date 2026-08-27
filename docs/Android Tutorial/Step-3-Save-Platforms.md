@@ -62,10 +62,10 @@ When a platform is saved it will light up. Tap it to see which account is connec
 <img src="/mockup/platform-select.png" alt="Platform to receive code" class="resized-image"/>
 <img src="/mockup/rmail-phone-input.png" alt="Phone number input screen" class="resized-image"/>
 
-> Tip: By default you always have your RelaySMS mail anonymous(random alias) account - you can use it to send messages quickly without verifying your phone number.
+<h1></h1>
 
-Anonymous vs authenticated:
-You can use RelaySMS Mail without saving it (anonymous), but if you save it, you can receive replies by SMS during a shutdown.
+> **Anonymous vs. authenticated** By default, RelaySMS Mail gives you an anonymous account with a random alias. You can use it to send messages quickly without verifying your phone number. If you save and authenticate your account, you can receive replies by SMS, even during an internet shutdown. Using an authenticated account is also more secure.
+
 
 
 ### Mastodon
