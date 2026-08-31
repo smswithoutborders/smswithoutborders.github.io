@@ -27,11 +27,11 @@ const sidebars = {
         'Android Tutorial/Step-6-Routing-Numbers',
       ],
     },
-    {
-      type: 'category',
-      label: 'Gateway Clients Guide',
-      items: ['Gateway Clients Guide/GatewayClientsGuide'],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Gateway Clients Guide',
+    //   items: ['Gateway Clients Guide/GatewayClientsGuide'],
+    // },
     {
       type: 'category',
       label: 'iOS Tutorial',
