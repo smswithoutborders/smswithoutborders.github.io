@@ -25,4 +25,4 @@ When choosing a routing number, consider:
 
 
 
-You can only add numbers that are already configured as routing numbers. See how to [configure a Routing Number](/docs/Gateway%20Clients%20Guide/GatewayClientsGuide.md)
+<!-- You can only add numbers that are already configured as routing numbers. See how to [configure a Routing Number](/docs/Gateway%20Clients%20Guide/GatewayClientsGuide.md) -->
