@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Guía para alojar y ejecutar clientes Gateway
+# Guia para alojar y ejecutar numeros de enrutamiento
 
-Siga esta guía sencilla para configurar y establecer un cliente Gateway de Deku SMS en su dispositivo Android.
+Siga esta guia sencilla para configurar y establecer un numero de enrutamiento de Deku SMS en su dispositivo Android.
 
-## Requisitos para configurar un cliente Gateway:
+## Requisitos para configurar un numero de enrutamiento:
 
 ### Dispositivo Android:
 Su dispositivo debe poder conectarse a Internet.  
@@ -45,7 +45,7 @@ En el menú desplegable, seleccione Message Forwarding.
 <img src="/GatewayHosting/5.png" alt="GatewayAvailable" class="resized-image"/>
 
 Toque los puntos del menú en la esquina superior derecha de la página de mensajes enrutados.  
-Toque los tres puntos en la esquina superior derecha de la página de mensajes de clientes Gateway.  
+Toque los tres puntos en la esquina superior derecha de la pagina de mensajes enrutados.  
 Toque nuevamente los tres puntos y elija Add HTTPS Forwarders.
 
 ### Paso 5: Completar la información requerida
@@ -67,6 +67,6 @@ Toque Save para guardar la configuración de su servidor Gateway.
 
 <img src="/GatewayHosting/9.png" alt="GatewayAvailable" class="resized-image"/>
 
-## ¡Su cliente Gateway ahora está listo!
+## Su numero de enrutamiento ahora esta listo
 
-Ahora puede compartir su número con usuarios de RelaySMS. Su dispositivo Android actuará como un cliente Gateway, ayudando a enrutar mensajes a través de la aplicación Deku SMS.
+Ahora puede compartir su numero con usuarios de RelaySMS. Su dispositivo Android actuara como un numero de enrutamiento, ayudando a enrutar mensajes a traves de la aplicacion Deku SMS.

@@ -3,11 +3,11 @@ sidebar_position: 1
 ---
 
 
-# Guide d’hébergement et d’exécution des clients Gateway
+# Guide d’hebergement et d’execution des numeros de routage
 
-Suivez ce guide simple pour configurer et mettre en place un client Gateway Deku SMS sur votre appareil Android.
+Suivez ce guide simple pour configurer et mettre en place un numero de routage Deku SMS sur votre appareil Android.
 
-## Exigences pour la configuration d’un client Gateway :
+## Exigences pour la configuration d’un numero de routage :
 
 ### Appareil Android :
 Votre appareil doit pouvoir se connecter à Internet.  
@@ -46,7 +46,7 @@ Dans le menu déroulant, sélectionnez Transfert de messages.
 <img src="/GatewayHosting/5.png" alt="GatewayAvailable" class="resized-image"/>
 
 Appuyez sur les points de menu en haut à droite de la page des messages routés.  
-Appuyez sur les trois points en haut à droite de la page des messages des clients Gateway.  
+Appuyez sur les trois points en haut a droite de la page des messages routes.  
 Appuyez à nouveau sur les trois points et choisissez Ajouter des forwarders HTTPS.
 
 ### Étape 5 : Remplir les informations requises
@@ -68,6 +68,6 @@ Appuyez sur Enregistrer pour sauvegarder la configuration de votre serveur Gatew
 
 <img src="/GatewayHosting/9.png" alt="GatewayAvailable" class="resized-image"/>
 
-## Votre client Gateway est maintenant prêt !
+## Votre numero de routage est maintenant pret
 
-Vous pouvez maintenant partager votre numéro avec les utilisateurs de RelaySMS. Votre appareil Android agira comme un client Gateway, aidant à acheminer les messages via l’application Deku SMS.
+Vous pouvez maintenant partager votre numero avec les utilisateurs de RelaySMS. Votre appareil Android agira comme un numero de routage, aidant a acheminer les messages via l’application Deku SMS.

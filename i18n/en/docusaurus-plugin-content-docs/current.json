@@ -12,7 +12,7 @@
     "description": "The label for category 'Android Tutorial' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Gateway Clients Guide": {
-    "message": "Gateway Clients Guide",
+    "message": "Routing Number Guide",
     "description": "The label for category 'Gateway Clients Guide' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Troubleshooting": {
@@ -22,10 +22,6 @@
   "sidebar.tutorialSidebar.category.iOS Tutorial": {
     "message": "iOS Tutorial",
     "description": "The label for category 'iOS Tutorial' in sidebar 'tutorialSidebar'"
-  },
-  "sidebar.tutorialSidebar.category.Bridges Tutorial": {
-    "message": "Bridges Tutorial",
-    "description": "The label for category 'Bridges Tutorial' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.On-Device Tutorial": {
     "message": "On-Device Tutorial",

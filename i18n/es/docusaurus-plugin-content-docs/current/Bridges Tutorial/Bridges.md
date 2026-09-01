@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# Usar Bridges en la aplicación RelaySMS (No se requiere registro)
+# Usar Offline RelaySMS Mail en la aplicacion RelaySMS (Sin configuracion previa)
 
-Aprende a usar la función Bridges en la aplicación RelaySMS. Esta herramienta te permite enviar mensajes de forma segura a plataformas en línea **sin iniciar sesión y sin usar Internet**. Sigue estos pasos para comenzar.
+Aprende a usar Offline RelaySMS Mail en la aplicacion RelaySMS. Esta herramienta te permite enviar mensajes de forma segura a plataformas en linea **sin iniciar sesion y sin usar Internet**. Sigue estos pasos para comenzar.
 
 ---
 
 Esta es la forma más rápida de empezar. La app crea un alias temporal usando tu número de teléfono (por ejemplo: **123456789@relaysms.me**) para enviar correos o tweets **sin almacenar tokens ni iniciar sesión**.
 
-## Pasos para usar la función Bridge:
+## Pasos para usar Offline RelaySMS Mail:
 
 ### **1. Descarga la aplicación RelaySMS desde:**
 
@@ -36,10 +36,10 @@ Esta es la forma más rápida de empezar. La app crea un alias temporal usando t
 <img src="/SAndroid/SkipSecure.png" alt="onboarding2" class="resized-image"/>
 <img src="/SAndroid/MakeAppDefualt.png" alt="onboarding2" class="resized-image"/>
 
-### **3. Selecciona un Gateway Client:**
+### **3. Selecciona un numero de enrutamiento:**
 
 - Pulsa la pestaña 🌍 *País* en la barra de navegación.
-- Elige un gateway client (números que envían tu mensaje offline a Internet).
+- Elige un numero de enrutamiento (numeros que envian tu mensaje offline a Internet).
 - También puedes seleccionarlo en la lista que aparece cuando presionas *Enviar* luego de escribir tu mensaje.
 
 <img src="/SAndroid/Gateway.png" alt="GatewayAvailable" class="resized-image"/>
@@ -54,10 +54,10 @@ Esta es la forma más rápida de empezar. La app crea un alias temporal usando t
 <img src="/SAndroid/Afterlogin.png" alt="addgatewayclient" class="resized-image"/>
 <img src="/SAndroid/bridgeMessage.png" alt="addgatewayclient" class="resized-image"/>
 
-Para los bridges:
+Para Offline RelaySMS Mail:
 - Completa los campos necesarios (correo del destinatario, asunto y mensaje).
 - Presiona **Enviar** en la esquina superior derecha.
-- Confirma el gateway client — y listo (si RelaySMS es tu app SMS predeterminada).
+- Confirma el numero de enrutamiento y listo (si RelaySMS es tu app SMS predeterminada).
 
 <img src="/SAndroid/sendGateway.png" alt="addgatewayclient" class="resized-image"/>
 

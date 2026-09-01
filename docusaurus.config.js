@@ -97,7 +97,7 @@ const config = {
               to: "/docs/iOS Tutorial/Getting-Started-With-iOS",
             },
             {
-              label: "Setting Up Gateway-Client",
+              label: "Routing Number Guide",
               to: "/docs/Gateway Clients Guide/GatewayClientsGuide",
             },
           ],
@@ -136,7 +136,7 @@ const config = {
           to: "/docs/Android Tutorial/Getting-Started-With-Android",
         },
         {
-          label: "Gateway Client",
+          label: "Routing Number",
           to: "/docs/Gateway Clients Guide/GatewayClientsGuide",
         },
         {
@@ -169,7 +169,7 @@ const config = {
       items: [
         {
           label: "Project",
-          href: "https://github.com/smswithoutborders",
+          href: "https://smswithoutborders.com",
         },
         {
           label: "Contribute",

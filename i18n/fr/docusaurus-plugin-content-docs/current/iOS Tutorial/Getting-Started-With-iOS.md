@@ -21,16 +21,16 @@ RelaySMS permet aux utilisateurs de rester connectés à leurs plateformes en li
 
 Il y a deux façons de communiquer avec l’app en cas de panne Internet :
 
-**A.** Avec votre compte RelaySMS par défaut (bridges), vous pouvez envoyer un e‑mail sans vous inscrire ni sauvegarder des plateformes
+**A.** Avec Offline RelaySMS Mail, vous pouvez envoyer un e‑mail sans vous inscrire ni sauvegarder des plateformes
 
 **B.** En sauvegardant l’accès à vos plateformes souhaitées dans l’app
 
 
-### A. Communiquer avec les bridges RelaySMS
+### A. Communiquer avec Offline RelaySMS Mail
 
-*Utilisation des bridges (sans inscription) & utilisation des plateformes (inscription et enregistrement préalables)*
+*Utilisation de Offline RelaySMS Mail (sans configuration) et utilisation des plateformes (inscription et enregistrement préalables)*
 
-## [1. Utilisation des bridges (sans inscription préalable)](/docs/Bridges%20Tutorial/Bridges#using-bridges-no-sign-up-required)
+## [1. Utilisation de Offline RelaySMS Mail (sans configuration)](/docs/Bridges%20Tutorial/Bridges)
 
 **Étape 1 : Cliquez sur le bouton "composer un nouveau message"**  
 <img src="/Android/pick.png" alt="sign_in" class="resized-image"/>

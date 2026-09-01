@@ -9,7 +9,7 @@ sidebar_position: 3
 ### 1. **Why am I not receiving SMS messages on RelaySMS?**
 
 - **Possible causes:**
-  - Ensure your SMS Gateway client is properly configured.
+  - Ensure your SMS routing number is properly configured.
   - Check if your device has sufficient signal for SMS.
   - Verify that RelaySMS has permission to read and send SMS messages.
 
@@ -31,7 +31,7 @@ sidebar_position: 3
 ### 4. **Why is there a delay in sending or receiving messages?**
 
 - **Possible causes:**
-  - Ensure that your SMS Gateway client has an active connection.
+  - Ensure that your SMS routing number has an active connection.
   - If you're offline, messages will only be sent when the device reconnects to a network.
   - Ensure there’s no high traffic or overload on the Vault servers.
 
@@ -53,7 +53,7 @@ sidebar_position: 3
 
 - **Possible causes:**
   - Check if your message is properly composed and encrypted before sending.
-  - Make sure that your SMS Gateway client is running properly.
+  - Make sure that your SMS routing number is running properly.
   - Verify your OAuth2 tokens and attempt to resend the message.
 
 ### 8. **How do I grant SMS permissions for RelaySMS?**

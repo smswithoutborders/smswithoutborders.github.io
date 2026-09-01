@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# Utiliser les Bridges dans l’application RelaySMS (Aucune inscription requise)
+# Utiliser Offline RelaySMS Mail dans l’application RelaySMS (Aucune configuration requise)
 
-Découvrez comment utiliser la fonctionnalité Bridges dans l’application RelaySMS. Cet outil vous permet d’envoyer des messages en toute sécurité vers des plateformes en ligne **sans vous connecter et sans utiliser Internet**. Suivez ces étapes pour commencer !
+Découvrez comment utiliser Offline RelaySMS Mail dans l’application RelaySMS. Cet outil vous permet d’envoyer des messages en toute sécurité vers des plateformes en ligne **sans vous connecter et sans utiliser Internet**. Suivez ces étapes pour commencer.
 
 ---
 
 C’est la manière la plus rapide de débuter. L’application crée un alias temporaire utilisant votre numéro de téléphone (ex. : **123456789@relaysms.me**) pour envoyer des emails ou tweets **sans stocker de jetons ni se connecter**.
 
-## Étapes pour utiliser la fonctionnalité Bridge :
+## Étapes pour utiliser Offline RelaySMS Mail :
 
 ### **1. Téléchargez l’application RelaySMS depuis :**
 
@@ -36,11 +36,11 @@ C’est la manière la plus rapide de débuter. L’application crée un alias t
 <img src="/SAndroid/SkipSecure.png" alt="onboarding2" class="resized-image"/>
 <img src="/SAndroid/MakeAppDefualt.png" alt="onboarding2" class="resized-image"/>
 
-### **3. Sélectionnez un Gateway Client :**
+### **3. Sélectionnez un numero de routage :**
 
 - Appuyez sur l’onglet 🌍 *Pays* dans la barre de navigation.
-- Choisissez un gateway client (ce sont des numéros qui transmettent votre message hors-ligne vers Internet).
-- Vous pouvez aussi sélectionner un gateway client dans la liste qui s’affiche lorsque vous appuyez sur *Envoyer* après avoir rédigé un message.
+- Choisissez un numero de routage (ce sont des numéros qui transmettent votre message hors-ligne vers Internet).
+- Vous pouvez aussi sélectionner un numero de routage dans la liste qui s’affiche lorsque vous appuyez sur *Envoyer* après avoir rédigé un message.
 
 <img src="/SAndroid/Gateway.png" alt="GatewayAvailable" class="resized-image"/>
 <img src="/SAndroid/AddGateway.png" alt="addgatewayclient" class="resized-image"/>
@@ -54,10 +54,10 @@ C’est la manière la plus rapide de débuter. L’application crée un alias t
 <img src="/SAndroid/Afterlogin.png" alt="addgatewayclient" class="resized-image"/>
 <img src="/SAndroid/bridgeMessage.png" alt="addgatewayclient" class="resized-image"/>
 
-Pour les bridges :
+Pour Offline RelaySMS Mail :
 - Remplissez les champs requis (email du destinataire, objet et message).
 - Appuyez sur **Envoyer** en haut à droite.
-- Confirmez le gateway client, et c’est tout (si RelaySMS est votre application SMS par défaut).
+- Confirmez le numero de routage, et c’est tout (si RelaySMS est votre application SMS par défaut).
 
 <img src="/SAndroid/sendGateway.png" alt="addgatewayclient" class="resized-image"/>
 

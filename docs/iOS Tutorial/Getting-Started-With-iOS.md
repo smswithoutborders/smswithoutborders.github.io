@@ -23,16 +23,16 @@ RelaySMS enables users to stay connected to their online platforms even when the
 
 There are two ways to communicate using the app during an internet shutdown;
 
-**A.** By using your default RelaySMS account(bridges), where u can send an email without the need to sign up or save platforms
+**A.** By using Offline RelaySMS Mail, where you can send an email without needing to sign up or save platforms.
 
 **B.** By saving access to your desired platforms on the app 
 
 
-### A. Communicating Using RelaySMS Bridges 
+### A. Communicating Using Offline RelaySMS Mail
 
-*Using Bridges (No sign-up required) & Using Platforms (Sign-up and store access ahead of time)*
+*Use Offline RelaySMS Mail (no setup required) or saved platforms (sign-up and save access ahead of time).* 
 
-## [1. Using Bridges (No sign-up required)](/docs/Bridges%20Tutorial/Bridges#using-bridges-no-sign-up-required)
+## [1. Use Offline RelaySMS Mail (No setup required)](/docs/Bridges%20Tutorial/Bridges)
 
 
 **Step 1: Click the "compose new message" Button**
@@ -105,15 +105,15 @@ After composing your message, confirm and send it through your phone’s SMS app
 <img src="/NewiOS/login1.png" alt="add-message" class="resized-image"/>
 <img src="/NewiOS/verificationcode.png" alt="GatewayAvailable" class="resized-image"/>
 
-**Step 6: Choose a Gateway Client**
+**Step 6: Choose a Routing Number**
 
 
 a. Tap the Country tab.
 
 b. Pick a number and tap Make Default.
 
-c. You can even add your own gateway client here by tapping Add Number.
-d. Alternatively, you can select a gateway client from the list that pops up when you hit the send button after composing your message.
+c. You can even add your own routing number here by tapping Add Number.
+d. Alternatively, you can select a routing number from the list that pops up when you hit the send button after composing your message.
 
 #### 6. Send a message:
 
@@ -127,7 +127,7 @@ d. Alternatively, you can select a gateway client from the list that pops up whe
 
 <img src="/NewiOS/gateway.png" alt="GatewayAvailable" class="resized-image"/>
 
-- c. Confirm the gateway client, and that's it.(if the RelaySMS app is set as your default messaging app)
+- c. Confirm the routing number, and that's it (if the RelaySMS app is set as your default messaging app).
 
 <img src="/NewiOS/notification.png" alt="GatewayAvailable" class="resized-image"/>
 

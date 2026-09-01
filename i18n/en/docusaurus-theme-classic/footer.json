@@ -55,9 +55,9 @@
     "message": "Getting Started",
     "description": "The label of footer link with label=Getting Started linking to /docs/Android Tutorial/Getting-Started-With-Android"
   },
-  "link.item.label.Gateway Client": {
-    "message": "Gateway Client",
-    "description": "The label of footer link with label=Gateway Client linking to /docs/Gateway Clients Guide/GatewayClientsGuide"
+  "link.item.label.Routing Number": {
+    "message": "Routing Number",
+    "description": "The label of footer link with label=Routing Number linking to /docs/Gateway Clients Guide/GatewayClientsGuide"
   },
   "link.item.label.Issues": {
     "message": "Issues",

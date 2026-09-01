@@ -13,11 +13,11 @@ RelaySMS به شما امکان می‌دهد حتی زمانی که اینتر�
 RelaySMS کمک می‌کند **بدون نیاز به اینترنت** پیام‌های آنلاین ارسال کنید.  
 این برنامه به **دو روش** کار می‌کند:
 
-## [1. استفاده از Bridge ها (بدون نیاز به ثبت‌نام)](/docs/Bridges%20Tutorial/Bridges#using-bridges-no-sign-up-required)
+## [1. استفاده از Offline RelaySMS Mail (بدون نیاز به تنظیمات)](/docs/Bridges%20Tutorial/Bridges)
 
 ## **2. استفاده از پلتفرم‌ها (نیازمند ثبت‌نام و تنظیمات اولیه)**
 
-این روش مناسب زمانی است که می‌خواهید در زمان قطع اینترنت در پلتفرم‌هایی مانند **Gmail ،Twitter یا Telegram** با حساب خود پست منتشر کنید.
+این روش مناسب زمانی است که می‌خواهید در زمان قطع اینترنت در پلتفرم‌هایی مانند **Gmail، Bluesky یا Telegram** با حساب خود پست منتشر کنید.
 
 ### مراحل استفاده از پلتفرم‌ها:
 
@@ -46,7 +46,7 @@ RelaySMS کمک می‌کند **بدون نیاز به اینترنت** پیام
 - انتخاب Gmail, Twitter یا Telegram
 - انتخاب **Add Platform**
 
-7. **انتخاب Gateway Client**
+7. **انتخاب شماره مسیریابی**
 - رفتن به تب **Country**
 - انتخاب یک شماره و زدن **Make Default**
 - امکان افزودن شماره اختصاصی نیز وجود دارد
@@ -55,7 +55,7 @@ RelaySMS کمک می‌کند **بدون نیاز به اینترنت** پیام
 - در صفحه **Recent** روی **Compose** بزنید
 - پلتفرم را انتخاب کنید
 - پیام را بنویسید و **Send** را بزنید
-- Gateway را تأیید کنید
+- شماره مسیریابی را تأیید کنید
 
 *نکته: اگر RelaySMS پیام‌رسان پیش‌فرض شما نیست، باید یکی را انتخاب کنید.*
 
@@ -79,4 +79,4 @@ RelaySMS کمک می‌کند **بدون نیاز به اینترنت** پیام
 4. پیام را جای‌گذاری کنید  
 5. برنامه به‌طور خودکار توکن را به‌روزرسانی می‌کند  
 
-## [How to Use the On-Device Token Storage Feature](/docs/On-Device%20Tutorial/On-DeviceToken#how-to-use-the-on-device-token-storage-feature)
+## [How to Use the On-Device Token Storage Feature](/docs/On-Device%20Tutorial/On-DeviceToken)

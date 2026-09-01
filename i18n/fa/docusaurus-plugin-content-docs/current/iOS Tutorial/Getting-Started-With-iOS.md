@@ -21,16 +21,16 @@ RelaySMS به کاربران اجازه می‌دهد حتی زمانی که ب�
 
 دو روش برای ارتباط با اپ در زمان قطع اینترنت وجود دارد:
 
-**A.** با استفاده از حساب پیش‌فرض RelaySMS (bridges)، می‌توانید بدون نیاز به ثبت‌نام یا ذخیره پلتفرم‌ها ایمیل ارسال کنید
+**A.** با استفاده از Offline RelaySMS Mail می‌توانید بدون نیاز به ثبت‌نام یا ذخیره پلتفرم‌ها ایمیل ارسال کنید
 
 **B.** با ذخیره دسترسی به پلتفرم‌های مورد نظر در اپ
 
 
-### A. ارتباط با bridges RelaySMS
+### A. ارتباط با Offline RelaySMS Mail
 
-*استفاده از bridges (بدون ثبت‌نام) & استفاده از پلتفرم‌ها (ثبت‌نام و ذخیره قبلی)*
+*استفاده از Offline RelaySMS Mail (بدون نیاز به تنظیمات) و استفاده از پلتفرم‌ها (ثبت‌نام و ذخیره قبلی)*
 
-## [1. استفاده از bridges (بدون ثبت‌نام)](/docs/Bridges%20Tutorial/Bridges#using-bridges-no-sign-up-required)
+## [1. استفاده از Offline RelaySMS Mail (بدون نیاز به تنظیمات)](/docs/Bridges%20Tutorial/Bridges)
 
 **مرحله ۱: کلیک روی دکمه "نوشتن پیام جدید"**  
 <img src="/Android/pick.png" alt="sign_in" class="resized-image"/>

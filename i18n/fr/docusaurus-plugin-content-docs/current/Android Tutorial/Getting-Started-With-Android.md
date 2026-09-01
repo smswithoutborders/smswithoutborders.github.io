@@ -13,11 +13,11 @@ RelaySMS permet aux utilisateurs de rester connectés à leurs plateformes en li
 RelaySMS vous aide à envoyer des messages en ligne **sans avoir besoin d’Internet**.  
 Il fonctionne de **deux manières :**
 
-## [1. Utiliser des Bridges (Aucune inscription requise)](/docs/Bridges%20Tutorial/Bridges#using-bridges-no-sign-up-required)
+## [1. Utiliser Offline RelaySMS Mail (Aucune configuration requise)](/docs/Bridges%20Tutorial/Bridges)
 
 ## **2. Utiliser des plateformes (Inscription et configuration nécessaire à l’avance)**
 
-Cette méthode est idéale si vous souhaitez publier sur des plateformes comme **Gmail, Twitter ou Telegram** pendant des coupures d’Internet en utilisant vos propres comptes.
+Cette méthode est idéale si vous souhaitez publier sur des plateformes comme **Gmail, Bluesky ou Telegram** pendant des coupures d’Internet en utilisant vos propres comptes.
 
 ### Étapes pour utiliser la fonctionnalité Plateforme :
 
@@ -52,7 +52,7 @@ Appuyez sur **Login**, entrez vos informations et le code Recaptcha.
 - Choisissez Gmail, Twitter ou Telegram
 - Appuyez sur **Add Platform**
 
-7. **Choisir un Gateway Client :**
+7. **Choisir un numero de routage :**
 - Ouvrez l’onglet **Country**
 - Sélectionnez un numéro et appuyez sur **Make Default**
 - Vous pouvez ajouter votre propre gateway via **Add Number**
@@ -61,7 +61,7 @@ Appuyez sur **Login**, entrez vos informations et le code Recaptcha.
 - Sur la page **Recent**, appuyez sur l’icône **Compose**
 - Choisissez une plateforme sauvegardée
 - Rédigez votre message puis appuyez sur **Send**
-- Confirmez le client Gateway
+- Confirmez le numero de routage
 
 *NB : Si RelaySMS n’est pas votre application SMS par défaut, il vous sera demandé d’en choisir une.*
 
@@ -85,4 +85,4 @@ La fonction **Store Tokens On-Device** stocke vos jetons d’accès **sur votre 
 4. Collez le SMS
 5. Le jeton sera extrait automatiquement.
 
-## [How to Use the On-Device Token Storage Feature](/docs/On-Device%20Tutorial/On-DeviceToken#how-to-use-the-on-device-token-storage-feature)
+## [How to Use the On-Device Token Storage Feature](/docs/On-Device%20Tutorial/On-DeviceToken)

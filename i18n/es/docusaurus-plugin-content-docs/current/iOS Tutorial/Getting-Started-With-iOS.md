@@ -21,16 +21,16 @@ RelaySMS permite a los usuarios mantenerse conectados a sus plataformas en líne
 
 Hay dos formas de comunicarte con la app durante un corte de Internet:
 
-**A.** Usando tu cuenta predeterminada de RelaySMS (bridges), donde puedes enviar un correo sin necesidad de registro o guardar plataformas
+**A.** Usando Offline RelaySMS Mail, donde puedes enviar un correo sin necesidad de registro o guardar plataformas
 
 **B.** Guardando el acceso a tus plataformas deseadas en la app
 
 
-### A. Comunicarse usando los bridges de RelaySMS
+### A. Comunicarse usando Offline RelaySMS Mail
 
-*Uso de bridges (sin registro) y uso de plataformas (registro y acceso guardado previamente)*
+*Uso de Offline RelaySMS Mail (sin configuracion previa) y uso de plataformas (registro y acceso guardado previamente)*
 
-## [1. Uso de bridges (sin necesidad de registro)](/docs/Bridges%20Tutorial/Bridges#using-bridges-no-sign-up-required)
+## [1. Uso de Offline RelaySMS Mail (sin configuracion previa)](/docs/Bridges%20Tutorial/Bridges)
 
 **Paso 1: Pulsa el botón "redactar nuevo mensaje"**  
 <img src="/Android/pick.png" alt="sign_in" class="resized-image"/>

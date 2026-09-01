@@ -43,8 +43,8 @@
     "message": "Get Started with iOS",
     "description": "Navbar item with label Get Started with iOS"
   },
-  "item.label.Setting Up Gateway-Client": {
-    "message": "Setting Up Gateway-Client",
-    "description": "Navbar item with label Setting Up Gateway-Client"
+  "item.label.Routing Number Guide": {
+    "message": "Routing Number Guide",
+    "description": "Navbar item with label Routing Number Guide"
   }
 }

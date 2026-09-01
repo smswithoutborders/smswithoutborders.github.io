@@ -313,10 +313,10 @@
     "message": "Everything you need to set up, use, and understand SMSWithoutBorders Projects"
   },
   "home.gateway.title": {
-    "message": "Gateway Clients Guide"
+    "message": "Routing Number Guide"
   },
   "home.gateway.desc": {
-    "message": "Set up and manage your SMS Gateway"
+    "message": "Set up and manage your routing numbers"
   },
   "home.ios.title": {
     "message": "Get Started with iOS"

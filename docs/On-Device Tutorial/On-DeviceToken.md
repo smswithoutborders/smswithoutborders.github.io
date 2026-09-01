@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+sidebar: false
+unlisted: true
 ---
 
 # How to Use the On-Device Token Storage Feature

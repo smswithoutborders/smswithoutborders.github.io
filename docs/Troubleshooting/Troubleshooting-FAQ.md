@@ -59,7 +59,7 @@ sidebar_position: 1
 **Issue**: Messages are not publishing  
 **Solutions**:
 
-- Try using a different gateway client.
+- Try using a different routing number.
 - Log out of your account, clear the app's cache and data, and log back in.
 - If you haven't used the account for a long time, revoke access to the platform and restore it.
 - Check your SIM card is active and able to send SMS messages.

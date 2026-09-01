@@ -2,223 +2,36 @@
 sidebar_position: 1
 ---
 
-# RelaySMS App for Android
+# Getting Started with RelaySMS - Android
 
-## Getting Started with Android
+### Stay connected even when the internet is off
 
-RelaySMS provides users with the ability to stay connected with their online platforms even when internet access is unavailable. By leveraging SMS messaging, users can continue communicating and their contacts receive online messages just as they normally would.
+RelaySMS lets you send messages, emails, and posts to your online platforms using just SMS. No internet needed. Your contacts receive your messages online, exactly as they normally would.
 
-## Introduction​
+## Android tutorial steps
 
-RelaySMS helps you send messages online without needing internet access. It works in  **two ways:**
+Use the Android Tutorial sidebar to go step by step:
 
+1. Download the app
+2. Onboarding
+3. Save platforms
+4. Back up and restore
+5. Sending a message
+6. Routing numbers
 
-## [1. Using Bridges (No sign-up required)](/docs/Bridges%20Tutorial/Bridges#using-bridges-no-sign-up-required)
+If you are in a hurry, start with [Sending a message](./Step-5-Sending-a-Message) and choose **Offline RelaySMS Mail**.
 
+## Quick reference
 
+| I want to... | What to do |
+| --- | --- |
+| Send a message fast with no setup | Use Offline RelaySMS Mail -> Compose -> Send from random alias -> Send |
+| Send from my Gmail during a shutdown | Save Gmail first -> Compose -> Gmail -> Send |
+| Send an image | Set RelaySMS as default app -> Compose -> Attachment icon |
+| Back up my platforms | 3-dot menu -> Back Up -> Back Up Now -> Save key |
+| Restore my platforms | Welcome page(on-boarding) -> Restore -> Choose file -> Enter key |
 
-## **2. Using Platforms (Sign-up and store access ahead of time)**
+RelaySMS is an open source app by SMSWithoutBorders project, built for people who need to stay connected when the internet goes down.
 
-This method is ideal if you want to post to platforms like **Gmail, Twitter, or Telegram**during internet shutdowns using your own accounts.
-
-Steps to Use the Platform Feature:
-
- ### 1. **Download the RelaySMS app.**
-
-
-- [Google_Play_Store](https://play.google.com/store/apps/details?id=com.afkanerd.sw0b)
-- [Github](https://github.com/smswithoutborders/SMSwithoutBorders-Android/releases/tag/v1.0) or
-- Build from [source](https://github.com/smswithoutborders/SMSwithoutBorders-Android)
-
-<img src="/Android/Playstore.png" alt="onbording1" class="resized-image"/>
-
- ### 2. **Go through onboarding to get familiar.**
-- Click the Make app default button (Optional)
-
-<img src="/SAndroid/Welcome.png" alt="onbording1" class="resized-image"/>
-<img src="/SAndroid/SkipSMSemail.png" alt="onbording" class="resized-image"/>
-<img src="/SAndroid/SkipSaveAccount.png" alt="onbording" class="resized-image"/>
-<img src="/SAndroid/SkipStartMessaging.png" alt="onbording" class="resized-image"/>
-<img src="/SAndroid/SkipSecure.png" alt="onbording2" class="resized-image"/>
-<img src="/SAndroid/MakeAppDefualt.png" alt="onbording2" class="resized-image"/>
-
- ### 3. **Create an account:**
-
-- Tap Sign Up.
-
-<img src="/SAndroid/Homepage.png" alt="onbording2" class="resized-image"/>
-
-- Enter either your email or phone number and add a password.
-<img src="/SAndroid/CreateAccountOption.png" alt="onbording2" class="resized-image"/>
-
-- Check the privacy policy box.
-
-- Click Create.
-
-- Enter the Recaptcha code 
-<img src="/SAndroid/capcha.png" alt="onbording2" class="resized-image"/>
-<img src="/SAndroid/verification.png" alt="onbording2" class="resized-image"/>
-<img src="/SAndroid/Afterlogin.png" alt="onbording2" class="resized-image"/>
-
- ### 4. **Already have an account?** Tap **Login**, fill in your details, click **Login**and put in the recaptcha code.
-
-<img src="/SAndroid/Login.png" alt="onbording2" class="resized-image"/>
-
- ### 5. **Verify your phone:**
-
-<img src="/SAndroid/capcha.png" alt="onbording2" class="resized-image"/>
-<img src="/SAndroid/verification.png" alt="onbording2" class="resized-image"/>
-- Enter the SMS code you received and hit **Submit.**
-
-
- ### 6. **Save your platforms:**
-
-
-- Tap the **Platforms** tab.
-
-<img src="/SAndroid/ChosePlateform.png" alt="onbording2" class="resized-image"/>
-
-
-- Choose from Gmail, Twitter, or Telegram.
-
-
-- Click **Add Platform** and follow the setup steps for that platform.
-
-<img src="/SAndroid/addPlateform.png" alt="onbording2" class="resized-image"/>
-
-- When successful, the icon will light up!
-
-
- ### 7. **Choose a Gateway Client:**
-
-
--  Tap the **Country** tab.
-
-<img src="/SAndroid/Gateway.png" alt="GatewayAvailable" class="resized-image"/>
-
-- Pick a number and tap **Make Default**.
-
-
-- You can even **add your own gateway client** here by tapping **Add Number**.
-
-<img src="/SAndroid/AddGateway.png" alt="addgatewayclient" class="resized-image"/>
-
-- Alternatively, you can select a gateway client from the list that pops up when you hit the send button after composing your message.
-
-
- ### 8. **Send a message:**
-
-
-- On the **Recent** page, tap the **Compose icon.**
-
-<img src="/SAndroid/Afterlogin.png" alt="GatewayAvailable" class="resized-image"/>
-
-
-- Pick a saved platform, write your message, and tap **Send**.
-
-<img src="/SAndroid/Afterlogin.png" alt="GatewayAvailable" class="resized-image"/>
-<img src="/SAndroid/sendPlate.png" alt="GatewayAvailable" class="resized-image"/>
-
-- Confirm the gateway client, and that's it.(if the RelaySMS app is set as your default messaging app)
-
-<img src="/SAndroid/GmailPlateform.png" alt="GatewayAvailable" class="resized-image"/>
-<img src="/SAndroid/sendGateway.png" alt="GatewayAvailable" class="resized-image"/>
-
-*NB: If the RelaySMS app is not set as your default message app, you will be prompted to choose a default messaging app to send your message.
-Your encrypted message will appear there,  just hit Send.*
-
-
-- You’ll receive an SMS confirmation once your message is published to the selected platform.
-
-### How to Delete an Account
-
-1. Open the app and click the 3 dots
-
-<img src="/SAndroid/3.png" alt="GatewayAvailable" class="resized-image"/>
-
-2. Click on Setting and scroll down and select Delete account
-
-<img src="/SAndroid/1.png" alt="GatewayAvailable" class="resized-image"/>
-
-3. Select  Delete and comfirm 
-
-<img src="/SAndroid/2.png" alt="GatewayAvailable" class="resized-image"/>
-
-### How to Use the On-Device Token Storage Feature
-
-Our **"Store Tokens On-Device"** feature gives you more control over your account credentials by keeping your access tokens on your phone instead of on the RelaySMS servers. This tutorial walks you through how to enable or disable this feature and how to refresh Twitter tokens when using local storage.
-
- ## **Enabling On-Device Token Storage**
-
-To start storing your access tokens locally on your device:
-
- ### 1. Open the **RelaySMS** app.
-
-<img src="/SAndroid/Afterlogin.png" alt="GatewayAvailable" class="resized-image"/>
-
- ### 2. Tap on **Settings**.
-
-<img src="/SAndroid/settings.png" alt="GatewayAvailable" class="resized-image"/>
-
- ### 3. Go to the **Publishing** section.
-
-<img src="/SAndroid/deleteAccount.png" alt="GatewayAvailable" class="resized-image"/>
-
- ### 4. Find the toggle for **“Store tokens on-device”** and switch it **ON.**
-
-
-## **What happens next?**
-
-- All access tokens that were previously stored on RelaySMS servers will be securely transferred to your device.
-
-
-- From now on, all **new tokens** will only be stored **locally** on your phone.
-
-## **Disabling On-Device Token Storage**
-
-To stop using local token storage and go back to storing tokens on the cloud:
-
-### 1. Go to **Settings > Publishing.**
-
- 
- ### 2. Switch the **“Store tokens on-device”** toggle **OFF.**
-
-<img src="/SAndroid/deleteAccount.png" alt="GatewayAvailable" class="resized-image"/>
-
-**What this means:**
-
-- The tokens that are **already stored on your device** will remain there and continue to work.
-
-
-- However, **new tokens** generated after this will be saved to the **RelaySMS cloud server**, not your device.
-
-
- ### **Refreshing Twitter Tokens (For On-Device Use Only)**
-
-Due to Twitter's security limitations, tokens stored on your device can only be used **once per tweet**. To send another tweet, you’ll need to **revoke and restore** the token.
-
-Here’s how:
-
-  1. After sending a tweet, you’ll receive an **SMS delivery status message**. If you're using an on-device token, this message will include a **refreshed Twitter token**.
-
-
-  2. **Copy the entire SMS message** (as-is).
-
-
-  3. Open the **RelaySMS app** and go to the **Inbox** section.
-
-
-  4. **Paste** the full SMS message into the inbox.
-
-
- 5. The app will automatically extract and refresh your Twitter token.
-
- 
- 6. You’re now ready to send your next tweet.
-
-
-Repeat this process **after every Twitter message** if you're using local token storage.
-
-
-## [How to Use the On-Device Token Storage Feature](/docs/On-Device%20Tutorial/On-DeviceToken#how-to-use-the-on-device-token-storage-feature)
+Having trouble? Join our community on [Telegram](https://t.me/+IPYp6q06dWsyZjY0) or contribute on [GitHub](https://github.com/smswithoutborders)
 

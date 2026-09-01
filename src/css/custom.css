@@ -20,12 +20,20 @@ h1, h2, h3 {
 :root {
   --ifm-font-family-base: "Ubuntu", system-ui, sans-serif;
   --ifm-heading-font-family: "Unbounded", system-ui, sans-serif;
+  --ifm-h1-font-size: 1.5rem;
+  --ifm-h2-font-size: 1rem;
 
   --ifm-color-primary: #1e40af;
   --ifm-color-primary-dark: #1d4ed8;
   --ifm-color-primary-light: #3b82f6;
 
   --ifm-code-font-size: 95%;
+}
+
+.markdown > h1 {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
 }
 
 .navbar {

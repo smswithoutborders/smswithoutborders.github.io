@@ -13,11 +13,11 @@ RelaySMS permite a los usuarios mantenerse conectados a sus plataformas en líne
 RelaySMS te ayuda a enviar mensajes en línea **sin necesitar Internet**.  
 Funciona de **dos maneras:**
 
-## [1. Usando Bridges (No requiere registro)](/docs/Bridges%20Tutorial/Bridges#using-bridges-no-sign-up-required)
+## [1. Usando Offline RelaySMS Mail (Sin configuracion previa)](/docs/Bridges%20Tutorial/Bridges)
 
 ## **2. Usando Plataformas (Requiere registro y configuración previa)**
 
-Método ideal para publicar en **Gmail, Twitter o Telegram** durante cortes de Internet usando tus propias cuentas.
+Método ideal para publicar en **Gmail, Bluesky o Telegram** durante cortes de Internet usando tus propias cuentas.
 
 ### Pasos para usar Plataformas:
 
@@ -49,7 +49,7 @@ Método ideal para publicar en **Gmail, Twitter o Telegram** durante cortes de I
 - Puedes elegir Gmail, Twitter o Telegram
 - Toca **Add Platform**
 
-7. **Elegir un Gateway Client**
+7. **Elegir un numero de enrutamiento**
 - Ve a **Country**
 - Selecciona un número y presiona **Make Default**
 - También puedes agregar un número propio
@@ -58,7 +58,7 @@ Método ideal para publicar en **Gmail, Twitter o Telegram** durante cortes de I
 - En **Recent**, toca **Compose**
 - Elige una plataforma
 - Escribe tu mensaje y presiona **Send**
-- Confirma el gateway
+- Confirma el numero de enrutamiento
 
 *NB: Si RelaySMS no es tu app SMS predeterminada, deberás elegir una.*
 
@@ -82,4 +82,4 @@ La función **Store Tokens On-Device** guarda tus tokens **localmente en tu tel�
 4. Pega el mensaje
 5. La app actualizará el token automáticamente
 
-## [How to Use the On-Device Token Storage Feature](/docs/On-Device%20Tutorial/On-DeviceToken#how-to-use-the-on-device-token-storage-feature)
+## [How to Use the On-Device Token Storage Feature](/docs/On-Device%20Tutorial/On-DeviceToken)
